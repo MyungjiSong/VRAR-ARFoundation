@@ -1,0 +1,67 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 848409ee8ba454f42a5ddff137688a27, type: 3}
+  m_Name: ReferenceImageLibrary
+  m_EditorClassIdentifier: 
+  m_GuidLow: 5134485094548216684
+  m_GuidHigh: 4389419241593288832
+  m_Images:
+  - m_SerializedGuid:
+      m_GuidLow: 5625750945340379505
+      m_GuidHigh: 17942506909838325933
+    m_SerializedTextureGuid:
+      m_GuidLow: 10143338965127746375
+      m_GuidHigh: 11141695939764037384
+    m_Size: {x: 0.16, y: 0.10666666}
+    m_SpecifySize: 1
+    m_Name: Australia
+    m_Texture: {fileID: 0}
+  - m_SerializedGuid:
+      m_GuidLow: 5565875224475184873
+      m_GuidHigh: 866224526958239124
+    m_SerializedTextureGuid:
+      m_GuidLow: 9314685908883749240
+      m_GuidHigh: 1913978475331554906
+    m_Size: {x: 0.16, y: 0.11142061}
+    m_SpecifySize: 1
+    m_Name: Canada
+    m_Texture: {fileID: 0}
+  - m_SerializedGuid:
+      m_GuidLow: 5668703046363215365
+      m_GuidHigh: 15436026321265876150
+    m_SerializedTextureGuid:
+      m_GuidLow: 6909913689520910075
+      m_GuidHigh: 11360074035310922826
+    m_Size: {x: 0.16, y: 0.10666666}
+    m_SpecifySize: 1
+    m_Name: Korea
+    m_Texture: {fileID: 0}
+  - m_SerializedGuid:
+      m_GuidLow: 4619594406313550628
+      m_GuidHigh: 3224328431655540911
+    m_SerializedTextureGuid:
+      m_GuidLow: 7337492807354761601
+      m_GuidHigh: 10778514423999663179
+    m_Size: {x: 0.16, y: 0.084}
+    m_SpecifySize: 1
+    m_Name: Uk
+    m_Texture: {fileID: 0}
+  - m_SerializedGuid:
+      m_GuidLow: 5749190251851525024
+      m_GuidHigh: 8807785272186855561
+    m_SerializedTextureGuid:
+      m_GuidLow: 14286607551143908944
+      m_GuidHigh: 12057898080242303097
+    m_Size: {x: 0.16, y: 0.10666666}
+    m_SpecifySize: 1
+    m_Name: Usa
+    m_Texture: {fileID: 0}
